@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Leonie Anna Trutschler"
 title_separator          : "-"
 name                     : &name "Leonie Anna Trutschler"
-description              : &description "Leonie's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "My Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://trutschl-boop.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/About-Me" # the subpath of your site, e.g. "/blog"
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : "https://www.institute-pep.com/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
