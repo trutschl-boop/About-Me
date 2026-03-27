@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Leonie Trutschler"
+title: "About Leonie"
 author_profile: true
 redirect_from: 
   - /about/
