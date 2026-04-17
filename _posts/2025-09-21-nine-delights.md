@@ -2,7 +2,6 @@
 title: 'IPeP Fieldnotes: The Nine Delights'
 date: 2025-09-21
 permalink: /posts/the-nine-delights/
-link: "https://jessicaboehme.substack.com/p/ipep-field-notes-news-from-the-institute" 
 tags:
   - reflections
   - IPeP
