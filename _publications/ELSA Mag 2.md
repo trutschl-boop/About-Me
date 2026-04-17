@@ -4,7 +4,7 @@ collection: publications
 category: editorial
 permalink: /publication/ELSA-Magazine-2
 excerpt: 'The second ELSA Magazine dives deeper into ELSA of AI and highlights the breadths of ELSA research methods'
-date: 2024
+date: 2024-09-01
 venue: 'Brightlands Smart Services Campus & AIC4NL'
 paperurl: 'https://nlaic.com/wp-content/uploads/2024/10/ELSA_Labs_magazine_2024.pdf'
 citation: 'Plantinga, M., Groten, M., Blok, V., Wang, H., & Trutschler, L. (2024). ELSA Labs Magazine: Methodologies (3rd ed.). Brightlands Smart Services Campus in collaboration with the Netherlands AI Coalition'
