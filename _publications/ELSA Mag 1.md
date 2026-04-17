@@ -2,7 +2,7 @@
 title: "ELSA Labs Magazine 1"
 collection: publications
 category: editorial
-permalink: /publication/elsa-magazine-1/
+permalink: /publication/elsa-magazine-1
 excerpt: "This magazine introduces the ELSA concept and the first Dutch ELSA Labs."
 date: 2023-09-01
 venue: "AIC4NL; Brightlands Smart Services Campus"
