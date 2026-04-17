@@ -1,7 +1,7 @@
 ---
 title: "Panel Discussion on AI Ethics"
 collection: talks
-type: "Panel Discussion following 'Hi,AI' movie"
+type: "Panel Discussion following 'Hi, AI' movie"
 permalink: /talks/2024-02-2019
 venue: "Lumière Cinema"
 date: 2024-02-19
