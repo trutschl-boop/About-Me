@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Researcher and project lead situated at the intersection of sustainability, ethics, technology, and practice. Experienced in coordinating interdisciplinary projects and translating ethical frameworks into applied settings across academia, policy, and industry. Currently centred on (the ELSA Labs Network) [https://www.nwo.nl/en/projects/nwa1332203001] and the (Institute for Practical ekoPhilosophy) [https://www.institute-pep.com/]
+I am a researcher and project lead situated at the intersection of sustainability, ethics, technology, and practice. Experienced in coordinating interdisciplinary projects and translating ethical frameworks into applied settings across academia, policy, and industry. Currently centred on [the ELSA Labs Network] (https://www.nwo.nl/en/projects/nwa1332203001) and the [Institute for Practical ekoPhilosophy] (https://www.institute-pep.com/). I am also a masters student in Science, Technology, and Society Studies and a young woman making her way in the world as joyfully as I can.
 
 ## Academic Education
 * **M.A. Science and Technology Studies**, University of Vienna  
