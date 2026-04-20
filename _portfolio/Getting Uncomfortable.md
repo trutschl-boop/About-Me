@@ -2,6 +2,7 @@
 title: "Getting Uncomfortable"
 excerpt: "A one-page RPG exploring discomfort, honesty, and practical self-reflection."
 collection: portfolio
+share: false
 ---
 
 ![Preview of Getting Uncomfortable](/About-Me/images/getting-uncomfortable-preview.png)
