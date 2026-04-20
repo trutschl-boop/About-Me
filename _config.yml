@@ -248,7 +248,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false 
+      # changed to get rid of social media buttons at bottom of the page
       related: true
   # _pages
   - scope:
