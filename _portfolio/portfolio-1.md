@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Getting Uncomfortable"
+excerpt: "A One-Page Take on A RPG that asks players to get familiar with discomfort"
 collection: portfolio
 ---
 
