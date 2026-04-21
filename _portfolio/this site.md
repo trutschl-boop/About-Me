@@ -17,10 +17,15 @@ Below I go into a bit more detail about the different elements of the site and m
 
 The 'container site' has six sub-pages, each with their own sub-pages depending on their purpose. The very fisrt site one lands on is usually the [About Me page](https://latrutschler.github.io/About-Me/), in which I provide a snapshot of my academic and professional background, current projects and interests, and a bit of insight into who I am outside of the professional environment. My aim was to make the first page simple and light, as on the one hand, I wanted an approachable and skimmable first impression and on the other hand, as a young scholar, there is no long list of achievements to report (at least not traditionally academically valued achievements). 
 
-The second site I built was [publications](https://latrutschler.github.io/About-Me/publications/), where I added a category for the magazines I've edited, as they are not peer-reviewed publications but rather sit at the intersection of academic and editorial work. Each work includes a description, recommended citation, direct link, and publisher information. I left space in the backend (?) of github to add journal articles and books, so if I pursue academic writing further I will be able to add it to the publications site easily. 
+The second site I built was [Publications](https://latrutschler.github.io/About-Me/publications/), where I added a category for the magazines I've edited, as they are not peer-reviewed publications but rather sit at the intersection of academic and editorial work. Each work includes a description, recommended citation, direct link, and publisher information. I left space in the backend (?) of github to add journal articles and books, so if I pursue academic writing further I will be able to add it to the publications site easily. 
 
 The third site was the [Blog Posts](https://latrutschler.github.io/About-Me/publication/ELSA-Magazine-3) page, where I added my two most liked pieces I've written for my work at the Institute for Practical ekoPhilosophy. I added the photos to lend the blogposts more character, as they were originally written for substack and intended to have my voice and images to translate well. 
 
-## Context of this site
+The fourth site was my CV, which was luckily mostly hiccup-free as the template largely allowed me to simply replace what was there with my own information. By the time I reached this page, I'd also become situated in the github coding scene enough to navigate the pages and codes fluidly and with unfurrowed brows. I embedded some links and was even proud of having the publications peek out here as well. 
+
+The last page I'm building is this one, the portfolio site. Having a portfolio is still foreign to me, as that was always something reserved for artists, which I did not see myself as. I still don't. But I see that I can make things now, often with trepidation, but with growing excitement. Which brings me to the final section of this page. 
+
+## Takeaways and reflections of a recently spawned scholar-maker
+
 
 
